@@ -2,7 +2,7 @@
 Calling All Developers! 🚀 Experience Seamless Bluetooth Testing with Blueterminal - Your Ultimate Solution to Perfecting Bluetooth Peripherals and Apps. 
 
 #### Available for free in the App Store
-[![App Store](assets/appstore-badge.png)](https://apps.apple.com/app/apple-store/id6443909948?pt=120967647&ct=github&mt=8)
+[<img src="assets/appstore-badge.png" width="178" height="60">](https://apps.apple.com/app/apple-store/id6443909948?pt=120967647&ct=github&mt=8)
 
 ## Features
 
